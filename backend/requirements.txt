@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+bcrypt
+python-dotenv
+reportlab
+python-docx
+pydantic
